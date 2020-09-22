@@ -1,2 +1,2 @@
-# dados_sus
+# Dados SUS
 Conhecenco a biblioteca pysus.
